@@ -1,0 +1,21 @@
+# Node & build
+node_modules/
+dist/
+build/
+
+# Sass cache
+.sass-cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Editor folders
+.vscode/
+.vs/
+
+# Logs
+*.log
